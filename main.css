@@ -1,0 +1,28 @@
+h1, th{
+    text-align: center;
+}
+span{
+    color: brown;
+}
+table{
+    margin: 0 auto;
+    border-spacing: 15px;
+    
+}
+td{
+    border-left: 3px solid darkblue;
+    width: 1000px;
+    height: 8vh;
+    font-size: 30px;
+    padding: 15px;
+}
+th{
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+}
+td:hover{
+border-left:3px solid darkgreen;
+}
+
